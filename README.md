@@ -1,5 +1,5 @@
 # geoRxiv -- Forked from Distill
-![geoRxiv_logo.png](geoRxiv logo)
+!(geoRxiv_logo.png)[geoRxiv logo]
 The aim of this work is to provide a modern and intuitive way of doing scientific publications in Geosciences[1]. I'm a big of LaTeX, and the classical way of doing research. However, if things can be improved why not trying? We found that distill to be the best template to use: It is very easy, it also generate high quality publications. The killing feature of distill is the interactivity, something that you cannot find in the pdf documents. 
 
 ## Goal of this project
