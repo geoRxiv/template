@@ -15,6 +15,7 @@ The aim of this work is to provide a modern and intuitive way of doing scientifi
 - [ ] We are currently looking for reviewers from fields like `remote sensing`, `geophysics`. Actually, we need reviewers from all fields related to `Geosciences` except for Geodesy and GIS (Geoinformatics)--we have lots of them.
 - [ ] We need to register our journal to ISSN and DOI. You can help here too.
 - [x] Working on the distill template is quite completed. I have made a few ugly CSS hacks, but you know it is CSS. There have to be some hacks.
+- [ ] Currently the way submission works is rather difficult (well, it is a lot easier than LaTeX). I'd love to make it even more easier.
 ## What to expect from us
 We are a local journal with international journals standards. Our goal as journal editors is to advance science by publishing high quality contents. Bottom line is, we cannot help if you do not intend to help yourself.
 
